@@ -1,4 +1,4 @@
-/** Question 10 -- mini Projet -- (Mini Shell)
+/** mini Projet -- (Mini Shell)
  *  Implémentation de pipe entre n commandes
  *  Auteur : Youssef Achenchabe
  */
